@@ -1,0 +1,8 @@
+pandas
+numpy
+PyPDF2
+pytesseract
+Pillow
+openai
+tqdm
+python-dotenv

@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset and downloaded files (Do not push the real data)
+dataset/
+repo.zip
+repo_extract/
+
+# Environment variables
+.env
